@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthDemo", "OAuthDemo\OAuthDemo.csproj", "{1592C1D6-2D55-4363-AFE1-39A7128D2C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth.WebApi", "OAuth.WebApi\OAuth.WebApi.csproj", "{3559024C-4C07-4324-8020-9ADE23500DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.Demo", "Asp.Demo\Asp.Demo.csproj", "{2F9D1D6D-6A76-444E-9505-D29DC2F07BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1592C1D6-2D55-4363-AFE1-39A7128D2C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1592C1D6-2D55-4363-AFE1-39A7128D2C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1592C1D6-2D55-4363-AFE1-39A7128D2C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1592C1D6-2D55-4363-AFE1-39A7128D2C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3559024C-4C07-4324-8020-9ADE23500DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3559024C-4C07-4324-8020-9ADE23500DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3559024C-4C07-4324-8020-9ADE23500DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3559024C-4C07-4324-8020-9ADE23500DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9D1D6D-6A76-444E-9505-D29DC2F07BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9D1D6D-6A76-444E-9505-D29DC2F07BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9D1D6D-6A76-444E-9505-D29DC2F07BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9D1D6D-6A76-444E-9505-D29DC2F07BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
